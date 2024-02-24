@@ -58,7 +58,7 @@ src/
 conda create -n usvisa python=3.8 -y
 ```
 ```bash
-conda activate -usvisa
+conda activate usvisa
 ```
 ```bash
 pip install -r requirements.txt
