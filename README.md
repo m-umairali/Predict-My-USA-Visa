@@ -66,7 +66,7 @@ src/
 
 # Project workflow
 
-
+![](https://github.com/m-umairali/predict-my-usa-visa/blob/main/workflow.jfif)
 
 # Prerequisites
 
