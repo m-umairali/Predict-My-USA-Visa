@@ -1,13 +1,3 @@
-
-
-
-
-# Run
-
-
-
-
-
 # Predict My US Visa
 
 
@@ -100,7 +90,7 @@ pip install -r requirements.txt
 ```
 
 
-## Using <project_name>
+## Using
 
 To use follow these steps:
 
