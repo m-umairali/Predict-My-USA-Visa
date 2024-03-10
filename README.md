@@ -1,12 +1,11 @@
 # Predict My US Visa
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
 ![GitHub repo size](https://img.shields.io/github/repo-size/m-umairali/predict-my-usa-visa)
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/m-umairali/predict-my-usa-visa)
+![GitHub forks](https://img.shields.io/github/forks/m-umairali/predict-my-usa-visa)
+![X Follow](https://img.shields.io/twitter/follow/umair_ali_11?style=social)
 
 "Predict My USA Visa" is a machine learning projection app to predict the approval likelihood of USA visa applications. Gain insights into approval factors, make informed decisions, and simplify the visa application process.
 
