@@ -2,6 +2,7 @@
 
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
+![GitHub repo size](https://img.shields.io/github/repo-size/m-umairali/predict-my-usa-visa)
 ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
