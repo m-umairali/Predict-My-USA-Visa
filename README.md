@@ -64,10 +64,11 @@ src/
 ```
 
 
+# Project workflow
 
 
 
-## Prerequisites
+# Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
@@ -75,7 +76,7 @@ Before you begin, ensure you have met the following requirements:
 * You have a `<Windows/Linux/Mac>`
 * You have Docker installed.
 
-## Installing
+# Installing
 
 To run the project, follow these steps:
 
