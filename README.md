@@ -123,4 +123,4 @@ If you want to contact me you can reach me at m.umairali8899@gmail.com
 
 ## License
 
-This project uses the following license: [MIT](<link>).
+This project uses the following license: [MIT](https://github.com/m-umairali/predict-my-usa-visa/tree/main#MIT-1-ov-file).
